@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Rajdhani/OFL.txt",
+      "sha1": "30eda1d64874da1e0df33d28db38fa31eb215e00"
+    },
+    {
+      "path": "assets/fonts/Rajdhani/Rajdhani-Bold.ttf",
+      "sha1": "85045273845d7d971feec8d0109d9251cd5de93a"
+    },
+    {
+      "path": "assets/fonts/Rajdhani/Rajdhani-Light.ttf",
+      "sha1": "b495ad251a0f3bc82ec9d49f7b377ac14fb60e90"
+    },
+    {
+      "path": "assets/fonts/Rajdhani/Rajdhani-Medium.ttf",
+      "sha1": "994935c12cb1959ed52d65359103a6ef83465b9a"
+    },
+    {
+      "path": "assets/fonts/Rajdhani/Rajdhani-Regular.ttf",
+      "sha1": "7e9b19d005342c10cca5824332bc56f827d72051"
+    },
+    {
+      "path": "assets/fonts/Rajdhani/Rajdhani-SemiBold.ttf",
+      "sha1": "731f75a9c03aebbb2eef99e65ad4742108783563"
+    },
+    {
+      "path": "assets/fonts/index.ts",
+      "sha1": "e69b6a244c921d18242a982a3ed237f7caa71360"
+    }
+  ]
+}

@@ -17,7 +17,7 @@ export const RegularText = ({children, style, bold}: Props) => {
         {
           color: COLORS.black,
           fontSize: 15,
-          // fontFamily: bold ? FONTS.Rajdhani.Bold : FONTS.Rajdhani.Regular,
+          fontFamily: bold ? FONTS.Rajdhani.Bold : FONTS.Rajdhani.Regular,
           // fontWeight: bold ? 'bold' : 'normal',
         },
         style,
@@ -34,7 +34,7 @@ export const SmallText = ({children, style, bold}: Props) => {
         {
           color: COLORS.black,
           fontSize: 10,
-          // fontFamily: bold ? FONTS.Rajdhani.Bold : FONTS.Rajdhani.Regular,
+          fontFamily: bold ? FONTS.Rajdhani.Bold : FONTS.Rajdhani.Regular,
           // fontWeight: bold ? 'bold' : 'normal',
         },
         style,
@@ -51,7 +51,7 @@ export const BigText = ({children, style, bold}: Props) => {
         {
           color: COLORS.black,
           fontSize: 25,
-          // fontFamily: bold ? FONTS.Rajdhani.Bold : FONTS.Rajdhani.Regular,
+          fontFamily: bold ? FONTS.Rajdhani.Bold : FONTS.Rajdhani.Regular,
           // fontWeight: bold ? 'bold' : 'normal',
         },
         style,

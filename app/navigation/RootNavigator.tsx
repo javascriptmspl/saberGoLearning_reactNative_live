@@ -15,6 +15,8 @@ import {useDispatch, useSelector} from 'react-redux';
 import {setAuth, tokenSelector} from '../redux/feature/auth/authSlice';
 import {LOCAL_KEYS, getLocalUser} from '../utils/helper';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import ConnectionLostScreen from '../screens/ConnectionLostScreen';
+import PdfScreen from '../screens/PdfScreen';
 import useGetOnboardingStatus from '../hooks/useGetOnboardingStatus';
 
 const Stack = createNativeStackNavigator<RootStackParams>();

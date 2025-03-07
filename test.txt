@@ -1,0 +1,14 @@
+{
+  "name": "string",
+  "phone": 0,
+  "email": "string",
+
+  "learning_mode": "string",
+  "coursecatinterest_id": "string",
+
+  "course_id": "string",
+
+  "total_fees": 0,
+ 
+  "date_of_joining": "2023-06-01"
+}

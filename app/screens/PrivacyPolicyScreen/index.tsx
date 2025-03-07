@@ -1,6 +1,10 @@
 import {View, Text, TouchableOpacity, TextInput} from 'react-native';
 import React from 'react';
 import {COLORS} from '../../constants/theme';
+import AntDesign from 'react-native-vector-icons/AntDesign';
+import Feather from 'react-native-vector-icons/Feather';
+import SimpleLineIcons from 'react-native-vector-icons/SimpleLineIcons';
+import Fontisto from 'react-native-vector-icons/Fontisto';
 import {BigText, RegularText, SmallText} from '../../components/MyText';
 import {useNavigation} from '@react-navigation/native';
 import {NativeStackNavigationProp} from '@react-navigation/native-stack';
