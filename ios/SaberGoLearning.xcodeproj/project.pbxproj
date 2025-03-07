@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* SportsFamAthleteTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* SportsFamAthleteTests.m */; };
-		0C80B921A6F3F58F76C31292 /* libPods-SportsFamAthlete.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-SportsFamAthlete.a */; };
+		00E356F31AD99517003FC87E /* SaberGoLearningTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* SaberGoLearningTests.m */; };
+		0C80B921A6F3F58F76C31292 /* libPods-SaberGoLearning.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-SaberGoLearning.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		16B74696FBA9F3C4CBEA0262 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 50370726437D410B292A8925 /* PrivacyInfo.xcprivacy */; };
 		2C639B7A2C22B4EC00D6E7FE /* Fonts in Resources */ = {isa = PBXBuildFile; fileRef = 2C639B792C22B4EC00D6E7FE /* Fonts */; };
-		7699B88040F8A987B510C191 /* libPods-SportsFamAthlete-SportsFamAthleteTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-SportsFamAthlete-SportsFamAthleteTests.a */; };
+		7699B88040F8A987B510C191 /* libPods-SaberGoLearning-SaberGoLearningTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-SaberGoLearning-SaberGoLearningTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -24,30 +24,30 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = SportsFamAthlete;
+			remoteInfo = "SaberGoLearning";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00E356EE1AD99517003FC87E /* SportsFamAthleteTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SportsFamAthleteTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* SaberGoLearningTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SaberGoLearningTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* SportsFamAthleteTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SportsFamAthleteTests.m; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* SportsFamAthlete.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SportsFamAthlete.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = SportsFamAthlete/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = SportsFamAthlete/AppDelegate.mm; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = SportsFamAthlete/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = SportsFamAthlete/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = SportsFamAthlete/main.m; sourceTree = "<group>"; };
-		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = SportsFamAthlete/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
-		19F6CBCC0A4E27FBF8BF4A61 /* libPods-SportsFamAthlete-SportsFamAthleteTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SportsFamAthlete-SportsFamAthleteTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356F21AD99517003FC87E /* SaberGoLearningTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "SaberGoLearningTests.m"; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* SaberGoLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SaberGoLearning.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = "SaberGoLearning/AppDelegate.h"; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = "SaberGoLearning/AppDelegate.mm"; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "SaberGoLearning/Images.xcassets"; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "SaberGoLearning/Info.plist"; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = "SaberGoLearning/main.m"; sourceTree = "<group>"; };
+		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = SaberGoLearning/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		19F6CBCC0A4E27FBF8BF4A61 /* libPods-SaberGoLearning-SaberGoLearningTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SaberGoLearning-SaberGoLearningTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C639B792C22B4EC00D6E7FE /* Fonts */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Fonts; path = "../node_modules/react-native-vector-icons/Fonts"; sourceTree = "<group>"; };
-		3B4392A12AC88292D35C810B /* Pods-SportsFamAthlete.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportsFamAthlete.debug.xcconfig"; path = "Target Support Files/Pods-SportsFamAthlete/Pods-SportsFamAthlete.debug.xcconfig"; sourceTree = "<group>"; };
-		50370726437D410B292A8925 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = SportsFamAthlete/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
-		5709B34CF0A7D63546082F79 /* Pods-SportsFamAthlete.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportsFamAthlete.release.xcconfig"; path = "Target Support Files/Pods-SportsFamAthlete/Pods-SportsFamAthlete.release.xcconfig"; sourceTree = "<group>"; };
-		5B7EB9410499542E8C5724F5 /* Pods-SportsFamAthlete-SportsFamAthleteTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportsFamAthlete-SportsFamAthleteTests.debug.xcconfig"; path = "Target Support Files/Pods-SportsFamAthlete-SportsFamAthleteTests/Pods-SportsFamAthlete-SportsFamAthleteTests.debug.xcconfig"; sourceTree = "<group>"; };
-		5DCACB8F33CDC322A6C60F78 /* libPods-SportsFamAthlete.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SportsFamAthlete.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = SportsFamAthlete/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		89C6BE57DB24E9ADA2F236DE /* Pods-SportsFamAthlete-SportsFamAthleteTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportsFamAthlete-SportsFamAthleteTests.release.xcconfig"; path = "Target Support Files/Pods-SportsFamAthlete-SportsFamAthleteTests/Pods-SportsFamAthlete-SportsFamAthleteTests.release.xcconfig"; sourceTree = "<group>"; };
+		3B4392A12AC88292D35C810B /* Pods-SaberGoLearning.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SaberGoLearning.debug.xcconfig"; path = "Target Support Files/Pods-SaberGoLearning/Pods-SaberGoLearning.debug.xcconfig"; sourceTree = "<group>"; };
+		50370726437D410B292A8925 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = SaberGoLearning/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		5709B34CF0A7D63546082F79 /* Pods-SaberGoLearning.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SaberGoLearning.release.xcconfig"; path = "Target Support Files/Pods-SaberGoLearning/Pods-SaberGoLearning.release.xcconfig"; sourceTree = "<group>"; };
+		5B7EB9410499542E8C5724F5 /* Pods-SaberGoLearning-SaberGoLearningTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SaberGoLearning-SaberGoLearningTests.debug.xcconfig"; path = "Target Support Files/Pods-SaberGoLearning-SaberGoLearningTests/Pods-SaberGoLearning-SaberGoLearningTests.debug.xcconfig"; sourceTree = "<group>"; };
+		5DCACB8F33CDC322A6C60F78 /* libPods-SaberGoLearning.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SaberGoLearning.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = "SaberGoLearning/LaunchScreen.storyboard"; sourceTree = "<group>"; };
+		89C6BE57DB24E9ADA2F236DE /* Pods-SaberGoLearning-SaberGoLearningTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SaberGoLearning-SaberGoLearningTests.release.xcconfig"; path = "Target Support Files/Pods-SaberGoLearning-SaberGoLearningTests/Pods-SaberGoLearning-SaberGoLearningTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -56,7 +56,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7699B88040F8A987B510C191 /* libPods-SportsFamAthlete-SportsFamAthleteTests.a in Frameworks */,
+				7699B88040F8A987B510C191 /* libPods-SaberGoLearning-SaberGoLearningTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -64,20 +64,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0C80B921A6F3F58F76C31292 /* libPods-SportsFamAthlete.a in Frameworks */,
+				0C80B921A6F3F58F76C31292 /* libPods-SaberGoLearning.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* SportsFamAthleteTests */ = {
+		00E356EF1AD99517003FC87E /* SaberGoLearningTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* SportsFamAthleteTests.m */,
+				00E356F21AD99517003FC87E /* SaberGoLearningTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = SportsFamAthleteTests;
+			path = "SaberGoLearningTests";
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -88,7 +88,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* SportsFamAthlete */ = {
+		13B07FAE1A68108700A75B9A /* SaberGoLearning */ = {
 			isa = PBXGroup;
 			children = (
 				2C639B792C22B4EC00D6E7FE /* Fonts */,
@@ -101,15 +101,15 @@
 				13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */,
 				50370726437D410B292A8925 /* PrivacyInfo.xcprivacy */,
 			);
-			name = SportsFamAthlete;
+			name = "SaberGoLearning";
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				5DCACB8F33CDC322A6C60F78 /* libPods-SportsFamAthlete.a */,
-				19F6CBCC0A4E27FBF8BF4A61 /* libPods-SportsFamAthlete-SportsFamAthleteTests.a */,
+				5DCACB8F33CDC322A6C60F78 /* libPods-SaberGoLearning.a */,
+				19F6CBCC0A4E27FBF8BF4A61 /* libPods-SaberGoLearning-SaberGoLearningTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -124,9 +124,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* SportsFamAthlete */,
+				13B07FAE1A68108700A75B9A /* SaberGoLearning */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* SportsFamAthleteTests */,
+				00E356EF1AD99517003FC87E /* SaberGoLearningTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
@@ -139,8 +139,8 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* SportsFamAthlete.app */,
-				00E356EE1AD99517003FC87E /* SportsFamAthleteTests.xctest */,
+				13B07F961A680F5B00A75B9A /* SaberGoLearning.app */,
+				00E356EE1AD99517003FC87E /* SaberGoLearningTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -148,10 +148,10 @@
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				3B4392A12AC88292D35C810B /* Pods-SportsFamAthlete.debug.xcconfig */,
-				5709B34CF0A7D63546082F79 /* Pods-SportsFamAthlete.release.xcconfig */,
-				5B7EB9410499542E8C5724F5 /* Pods-SportsFamAthlete-SportsFamAthleteTests.debug.xcconfig */,
-				89C6BE57DB24E9ADA2F236DE /* Pods-SportsFamAthlete-SportsFamAthleteTests.release.xcconfig */,
+				3B4392A12AC88292D35C810B /* Pods-SaberGoLearning.debug.xcconfig */,
+				5709B34CF0A7D63546082F79 /* Pods-SaberGoLearning.release.xcconfig */,
+				5B7EB9410499542E8C5724F5 /* Pods-SaberGoLearning-SaberGoLearningTests.debug.xcconfig */,
+				89C6BE57DB24E9ADA2F236DE /* Pods-SaberGoLearning-SaberGoLearningTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -159,9 +159,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* SportsFamAthleteTests */ = {
+		00E356ED1AD99517003FC87E /* SaberGoLearningTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "SportsFamAthleteTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "SaberGoLearningTests" */;
 			buildPhases = (
 				A55EABD7B0C7F3A422A6CC61 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -175,14 +175,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = SportsFamAthleteTests;
-			productName = SportsFamAthleteTests;
-			productReference = 00E356EE1AD99517003FC87E /* SportsFamAthleteTests.xctest */;
+			name = "SaberGoLearningTests";
+			productname = "SaberGoLearningTests";
+			productReference = 00E356EE1AD99517003FC87E /* SaberGoLearningTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* SportsFamAthlete */ = {
+		13B07F861A680F5B00A75B9A /* SaberGoLearning */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "SportsFamAthlete" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "SaberGoLearning" */;
 			buildPhases = (
 				C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */,
 				13B07F871A680F5B00A75B9A /* Sources */,
@@ -196,9 +196,9 @@
 			);
 			dependencies = (
 			);
-			name = SportsFamAthlete;
-			productName = SportsFamAthlete;
-			productReference = 13B07F961A680F5B00A75B9A /* SportsFamAthlete.app */;
+			name = "SaberGoLearning";
+			productName = "SaberGoLearning";
+			productReference = 13B07F961A680F5B00A75B9A /* SaberGoLearning.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -218,7 +218,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "SportsFamAthlete" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "SaberGoLearning" */;
 			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -231,8 +231,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* SportsFamAthlete */,
-				00E356ED1AD99517003FC87E /* SportsFamAthleteTests */,
+				13B07F861A680F5B00A75B9A /* SaberGoLearning */,
+				00E356ED1AD99517003FC87E /* SaberGoLearningTests */,
 			);
 		};
 /* End PBXProject section */
@@ -281,15 +281,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SportsFamAthlete/Pods-SportsFamAthlete-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-SaberGoLearning/Pods-SaberGoLearning-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SportsFamAthlete/Pods-SportsFamAthlete-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-SaberGoLearning/Pods-SaberGoLearning-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SportsFamAthlete/Pods-SportsFamAthlete-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SaberGoLearning/Pods-SaberGoLearning-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		A55EABD7B0C7F3A422A6CC61 /* [CP] Check Pods Manifest.lock */ = {
@@ -307,7 +307,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-SportsFamAthlete-SportsFamAthleteTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-SaberGoLearning-SaberGoLearningTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -329,7 +329,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-SportsFamAthlete-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-SaberGoLearning-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -342,15 +342,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SportsFamAthlete-SportsFamAthleteTests/Pods-SportsFamAthlete-SportsFamAthleteTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-SaberGoLearning-SaberGoLearningTests/Pods-SaberGoLearning-SaberGoLearningTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SportsFamAthlete-SportsFamAthleteTests/Pods-SportsFamAthlete-SportsFamAthleteTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-SaberGoLearning-SaberGoLearningTests/Pods-SaberGoLearning-SaberGoLearningTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SportsFamAthlete-SportsFamAthleteTests/Pods-SportsFamAthlete-SportsFamAthleteTests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SaberGoLearning-SaberGoLearningTests/Pods-SaberGoLearning-SaberGoLearningTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		E235C05ADACE081382539298 /* [CP] Copy Pods Resources */ = {
@@ -359,15 +359,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SportsFamAthlete/Pods-SportsFamAthlete-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-SaberGoLearning/Pods-SaberGoLearning-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SportsFamAthlete/Pods-SportsFamAthlete-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-SaberGoLearning/Pods-SaberGoLearning-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SportsFamAthlete/Pods-SportsFamAthlete-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SaberGoLearning/Pods-SaberGoLearning-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		F6A41C54EA430FDDC6A6ED99 /* [CP] Copy Pods Resources */ = {
@@ -376,15 +376,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SportsFamAthlete-SportsFamAthleteTests/Pods-SportsFamAthlete-SportsFamAthleteTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-SaberGoLearning-SaberGoLearningTests/Pods-SaberGoLearning-SaberGoLearningTests-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SportsFamAthlete-SportsFamAthleteTests/Pods-SportsFamAthlete-SportsFamAthleteTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-SaberGoLearning-SaberGoLearningTests/Pods-SaberGoLearning-SaberGoLearningTests-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SportsFamAthlete-SportsFamAthleteTests/Pods-SportsFamAthlete-SportsFamAthleteTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SaberGoLearning-SaberGoLearningTests/Pods-SaberGoLearning-SaberGoLearningTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -394,7 +394,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* SportsFamAthleteTests.m in Sources */,
+				00E356F31AD99517003FC87E /* SaberGoLearningTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -412,7 +412,7 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* SportsFamAthlete */;
+			target = 13B07F861A680F5B00A75B9A /* SaberGoLearning */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -420,14 +420,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5B7EB9410499542E8C5724F5 /* Pods-SportsFamAthlete-SportsFamAthleteTests.debug.xcconfig */;
+			baseConfigurationReference = 5B7EB9410499542E8C5724F5 /* Pods-SaberGoLearning-SaberGoLearningTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = SportsFamAthleteTests/Info.plist;
+				INFOPLIST_FILE = "SaberGoLearningTests/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -439,19 +439,19 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sabergolearning";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SportsFamAthlete.app/SportsFamAthlete";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SaberGoLearning.app/SaberGoLearning";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 89C6BE57DB24E9ADA2F236DE /* Pods-SportsFamAthlete-SportsFamAthleteTests.release.xcconfig */;
+			baseConfigurationReference = 89C6BE57DB24E9ADA2F236DE /* Pods-SaberGoLearning-SaberGoLearningTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = SportsFamAthleteTests/Info.plist;
+				INFOPLIST_FILE = "SaberGoLearningTests/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -463,22 +463,23 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sabergolearning";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SportsFamAthlete.app/SportsFamAthlete";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SaberGoLearning.app/SaberGoLearning";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3B4392A12AC88292D35C810B /* Pods-SportsFamAthlete.debug.xcconfig */;
+			baseConfigurationReference = 3B4392A12AC88292D35C810B /* Pods-SaberGoLearning.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 8XR9GPSS6Y;
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = SportsFamAthlete/Info.plist;
+				INFOPLIST_FILE = "SaberGoLearning/Info.plist";
+             INFOPLIST_KEY_CFBundleDisplayName = "SaberGoLearning";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -489,8 +490,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = SportsFamAthlete;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sabergolearning";
+				PRODUCT_NAME = "SaberGoLearning";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -499,13 +500,14 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5709B34CF0A7D63546082F79 /* Pods-SportsFamAthlete.release.xcconfig */;
+			baseConfigurationReference = 5709B34CF0A7D63546082F79 /* Pods-SaberGoLearning.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 8XR9GPSS6Y;
-				INFOPLIST_FILE = SportsFamAthlete/Info.plist;
+				INFOPLIST_FILE = "SaberGoLearning/Info.plist";
+             INFOPLIST_KEY_CFBundleDisplayName = "SaberGoLearning";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -516,8 +518,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = SportsFamAthlete;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sabergolearning";
+				PRODUCT_NAME = "SaberGoLearning";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -685,7 +687,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "SportsFamAthleteTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "SaberGoLearningTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -694,7 +696,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "SportsFamAthlete" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "SaberGoLearning" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -703,7 +705,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "SportsFamAthlete" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "SaberGoLearning" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

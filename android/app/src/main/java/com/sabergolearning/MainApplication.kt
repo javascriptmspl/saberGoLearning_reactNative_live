@@ -1,4 +1,4 @@
-package com.sportsfamathlete
+package com.sabergolearning
 
 import android.app.Application
 import com.facebook.react.PackageList

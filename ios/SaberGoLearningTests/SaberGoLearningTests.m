@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface SportsFamAthleteTests : XCTestCase
+@interface SaberGoLearningTests : XCTestCase
 
 @end
 
-@implementation SportsFamAthleteTests
+@implementation SaberGoLearningTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {
